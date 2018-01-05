@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ref_gl", "ref_gl\ref_gl.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game", "game\game.vcxproj", "{089318CF-012D-4723-BCAC-036EEF68344E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ref_vk", "ref_vk\ref_vk.vcxproj", "{A0ED19E0-9CD5-4863-8773-66B0C8406981}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,10 @@ Global
 		{089318CF-012D-4723-BCAC-036EEF68344E}.Debug|Win32.Build.0 = Debug|Win32
 		{089318CF-012D-4723-BCAC-036EEF68344E}.Release|Win32.ActiveCfg = Release|Win32
 		{089318CF-012D-4723-BCAC-036EEF68344E}.Release|Win32.Build.0 = Release|Win32
+		{A0ED19E0-9CD5-4863-8773-66B0C8406981}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A0ED19E0-9CD5-4863-8773-66B0C8406981}.Debug|Win32.Build.0 = Debug|Win32
+		{A0ED19E0-9CD5-4863-8773-66B0C8406981}.Release|Win32.ActiveCfg = Release|Win32
+		{A0ED19E0-9CD5-4863-8773-66B0C8406981}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
