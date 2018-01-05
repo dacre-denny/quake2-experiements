@@ -37,5 +37,6 @@ Icon
 .Trashes
 
 **/Debug
+**/.vs
 /Quake2
 *.user
